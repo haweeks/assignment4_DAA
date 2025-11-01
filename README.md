@@ -12,7 +12,7 @@
 | Medium | 10–20 | Mixed structures, several SCCs | 3 | edge |
 | Large | 20–50 | Performance and timing tests | 3 | edge |
 
-All datasets are stored in `/data/` as JSON files (`dataset_1.json` … `dataset_9.json`, plus `tasks.json`).  
+All datasets are stored in `/data/` as JSON files (`dataset_1.json` … `dataset_9.json`).  
 Each graph is **directed**, with weights stored on edges.  
 Both cyclic and acyclic examples are included to evaluate SCC detection and DAG path algorithms.
 

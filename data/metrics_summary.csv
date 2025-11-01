@@ -1,0 +1,41 @@
+id,algorithm name,vertices,total cost,execution_time_ns,operation_count
+dataset_1.json,SCC (Tarjan),6,3,15703,13
+dataset_1.json,Topological sort (Kahn),6,3,3412,5
+dataset_1.json,DAG Shortest (sum distances),6,5,1411,1
+dataset_1.json,DAG Longest (critical path),6,5,1110,1
+dataset_2.json,SCC (Tarjan),8,6,12731,19
+dataset_2.json,Topological sort (Kahn),8,6,3617,14
+dataset_2.json,DAG Shortest (sum distances),8,0,865,0
+dataset_2.json,DAG Longest (critical path),8,0,639,0
+dataset_3.json,SCC (Tarjan),10,2,19186,24
+dataset_3.json,Topological sort (Kahn),10,2,1989,3
+dataset_3.json,DAG Shortest (sum distances),10,0,746,0
+dataset_3.json,DAG Longest (critical path),10,0,531,0
+dataset_4.json,SCC (Tarjan),12,3,12961,32
+dataset_4.json,Topological sort (Kahn),12,3,1869,7
+dataset_4.json,DAG Shortest (sum distances),12,2,1191,1
+dataset_4.json,DAG Longest (critical path),12,2,976,1
+dataset_5.json,SCC (Tarjan),15,5,18704,41
+dataset_5.json,Topological sort (Kahn),15,5,3479,14
+dataset_5.json,DAG Shortest (sum distances),15,24,2236,9
+dataset_5.json,DAG Longest (critical path),15,21,1952,9
+dataset_6.json,SCC (Tarjan),18,2,23390,48
+dataset_6.json,Topological sort (Kahn),18,2,1852,3
+dataset_6.json,DAG Shortest (sum distances),18,2,1034,1
+dataset_6.json,DAG Longest (critical path),18,2,851,1
+dataset_7.json,SCC (Tarjan),22,1,29832,68
+dataset_7.json,Topological sort (Kahn),22,1,1014,1
+dataset_7.json,DAG Shortest (sum distances),22,0,509,0
+dataset_7.json,DAG Longest (critical path),22,0,378,0
+dataset_8.json,SCC (Tarjan),30,2,45126,95
+dataset_8.json,Topological sort (Kahn),30,2,1502,3
+dataset_8.json,DAG Shortest (sum distances),30,0,488,0
+dataset_8.json,DAG Longest (critical path),30,0,376,0
+dataset_9.json,SCC (Tarjan),40,2,47608,127
+dataset_9.json,Topological sort (Kahn),40,2,1446,4
+dataset_9.json,DAG Shortest (sum distances),40,0,527,0
+dataset_9.json,DAG Longest (critical path),40,0,390,0
+tasks.json,SCC (Tarjan),8,6,8487,15
+tasks.json,Topological sort (Kahn),8,6,2361,10
+tasks.json,DAG Shortest (sum distances),8,17,1632,3
+tasks.json,DAG Longest (critical path),8,8,1283,3
